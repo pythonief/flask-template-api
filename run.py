@@ -1,3 +1,11 @@
+"""
+TEMPLATE PROJECT CREATED BY FRITZLER ILAN EMANUEL
+JR PYTHON DEVELOPER
+
+github: @fritzlerilan
+secondary-github: @pythonief
+linkedin: https://www.linkedin.com/in/ilan-fritzler
+"""
 from myapp import create_app
 
 # Import extensions

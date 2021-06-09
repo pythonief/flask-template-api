@@ -13,7 +13,6 @@ from .utils import register_blueprints, load_config
 from myapp.blueprints.home import home as home_blueprint
 
 
-
 def create_app(json_file='config.json', db=None):
     app = Flask(__name__)
     try:
